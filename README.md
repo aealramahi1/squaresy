@@ -1,0 +1,2 @@
+# squaresy
+Granny square generator
